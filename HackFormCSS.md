@@ -1,4 +1,5 @@
-  <script>
+```  
+<script>
 
                window.onload= function(){
              document.getElementById('id_username').className+="w-full bg-gray-800 rounded border border-gray-700 text-white focus:outline-none focus:border-indigo-500 text-base px-4 py-2";
@@ -23,3 +24,4 @@
                   type="submit" value="submit">Submit</button>
   
               </form>
+```
